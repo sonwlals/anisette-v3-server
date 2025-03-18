@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "sonwlals v3",
+            "address": "https://sonwlals-anisette-v3-server.onrender.com"
+        }
+    ]
+}
